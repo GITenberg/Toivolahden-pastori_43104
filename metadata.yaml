@@ -1,0 +1,39 @@
+_repo: Toivolahden-pastori_43104
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hahnsson, Theodolinda
+    aliases:
+    - Hahnsson, Sofia Theodolinda
+    - Yrjo-Koskinen, Theodolinda Limon
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '5391'
+    url: http://www.gutenberg.org/2009/agents/5391
+    wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sigurd
+    alias: Hedenstierna, Alfred
+    birthdate: 1852
+    deathdate: 1906
+    gutenberg_agent_id: '42021'
+    url: http://www.gutenberg.org/2009/agents/42021
+    wikipedia: http://sv.wikipedia.org/wiki/Alfred_Hedenstierna
+description: ''
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43104'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: Toivolahden pastori
+url: http://www.gutenberg.org/ebooks/43104
