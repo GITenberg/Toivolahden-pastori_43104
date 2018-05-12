@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42021
     wikipedia: http://sv.wikipedia.org/wiki/Alfred_Hedenstierna
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43104#Toivolahden-pastori
 gutenberg_issued: '2013-07-06'
 gutenberg_type: Text
 identifiers:
